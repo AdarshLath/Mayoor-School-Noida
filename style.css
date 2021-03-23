@@ -49,17 +49,34 @@ h1{
 #achievementsID{
     padding-bottom: 10px;
 }
-.movie_head{
-    font-size: 20px;
+
+#contactus {
+    display: inline-block;
+}
+.new_li{
+    margin-top: 13px;
+}
+new_li h4{
+    border-bottom: 1px solid white;
+    padding:8 px;
+}
+new_li img{
+    border-radius: 25px;
+}
+new_li p{
+    margin-top:10px;
+}
+.movie_head {
+    font-language-override: 20px;
     padding: 6px 22px;
     border-radius: 10px;
     margin-bottom: 15px;
     width: 100%;
-    display: inline-block;
+    display:inline-block;
 }
 .movie_head i{
-    float: right;
+    float:right;
 }
 .movie_text span{
-    color: chocolate;
+    color: #ff7700;
 }
